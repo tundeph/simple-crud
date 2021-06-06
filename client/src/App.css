@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 500px;
+}
+
+.info label {
+  margin-top: 20px;
+}
+
+.info button {
+  margin-top: 20px;
+}
