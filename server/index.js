@@ -31,5 +31,5 @@ app.post("/create", (req, res) => {
 });
 
 app.listen(3002, () => {
-  console.log("Server running on port 3002");
+  console.log("Server running on port selected port");
 });
